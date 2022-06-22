@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">NoteApplication</string>
+    <string name="Skip">Skip</string>
+    <string name="manage_notes">Manage your notes easily</string>
+    <string name="easy_way_manage">A completely easy way to manage and customize your notes.</string>
+    <string name="Organize">Organize your thougts</string>
+    <string name="BautifulNote">Most beautiful note taking application.</string>
+    <string name="Next">Next</string>
+    <string name="Back">Back</string>
+    <string name="Get_Started">Get Started</string>
+    <string name="CreateCard">Create cards and easy styling</string>
+    <string name="MakingContent">Making your content legible has never been easier.</string>
+    <string name="Notes">Notes</string>
+    <string name="Event">Event</string>
+    <string name="Search">Search</string>
+    <string name="CreateNote">Create Note</string>
 </resources>

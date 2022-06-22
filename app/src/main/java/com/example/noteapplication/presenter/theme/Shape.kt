@@ -1,4 +1,4 @@
-package com.example.noteapplication.ui.theme
+package com.example.noteapplication.presenter.theme
 
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material.Shapes
